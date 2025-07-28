@@ -10,10 +10,10 @@ Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistem
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,flutter,nodejs,mysql,postgresql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas:
-[![My Skills](https://skillicons.dev/icons?i=express,angular,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,angular,bootstrap,jquery,&perline=5)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,git,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure&perline=3)](https://skillicons.dev)
 
  <!--
 **Luiz-HSSD/Luiz-HSSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
