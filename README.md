@@ -7,13 +7,13 @@ I'm a dotnet developer, I have a degree in Systems Analysis and Development from
 Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec de Mogi das Cruzes, e tenho mais de 6 anos no mercado de trabalho adoro aprender mais a cada dia mais. Sou auto didata e adaptavel e me esforço sempre pra ser melhor no trabalho. 
 
 ## 💻 Tecnologias e linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,flutter,nodejs,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,flutter,nodejs,mysql,postgresql,dynamodb,firebase)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas:
-[![My Skills](https://skillicons.dev/icons?i=express,angular,bootstrap,jquery,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,angular,bootstrap,jquery,&perline=5)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift&perline=5)](https://skillicons.dev)
 
  <!--
 **Luiz-HSSD/Luiz-HSSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
