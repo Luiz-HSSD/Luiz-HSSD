@@ -28,7 +28,7 @@ Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistem
 
 <p align="left">
   <a href="mailto:lhenrique_diniz@hotmail.com" title="Outlook">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Outlook-0000FF?style=flat-square&labelColor=FF0000&logo=outlook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luiz-henrique-539b0674/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
