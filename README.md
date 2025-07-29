@@ -2,6 +2,18 @@
 
 I'm a dotnet developer, I have a degree in Systems Analysis and Development from Fatec de Mogi das Cruzes, and I have more than 6 years in the job market, I love learning more every day. I am self-taught and adaptable and always strive to be better at work. 
 
+<p align="left">
+  <a href="mailto:lhenrique_diniz@hotmail.com" title="Outlook">
+    <img src="https://img.shields.io/badge/-Outlook-0000FF?style=flat-square&labelColor=0000FF&logo=mail&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-539b0674/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511935000584" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
 ## :brazil: Olá pessoal Sou Luiz Henrique 👋
 
 Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec de Mogi das Cruzes, e tenho mais de 6 anos no mercado de trabalho adoro aprender mais a cada dia mais. Sou auto didata e adaptavel e me esforço sempre pra ser melhor no trabalho. 
@@ -18,7 +30,7 @@ também sei entity framework,entity framework core, dapper, NUnit, XUnit.
 
 <p align="left">
   <a href="mailto:lhenrique_diniz@hotmail.com" title="Outlook">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Outlook-0000FF?style=flat-square&labelColor=0000FF&logo=mail&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/luiz-henrique-539b0674/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
