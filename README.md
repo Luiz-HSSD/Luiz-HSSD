@@ -7,10 +7,10 @@ I'm a dotnet developer, I have a degree in Systems Analysis and Development from
 Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec de Mogi das Cruzes, e tenho mais de 6 anos no mercado de trabalho adoro aprender mais a cada dia mais. Sou auto didata e adaptavel e me esforço sempre pra ser melhor no trabalho. 
 
 ## 💻 Tecnologias e linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,flutter,nodejs,mysql,postgresql,dynamodb,firebase&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,flutter,nodejs,mysql,postgresql,dynamodb,firebase&perline=5)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,prisma,angular,bootstrap,jquery,opencv&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,prisma,angular,bootstrap,jquery,rabbitmq,opencv&perline=5)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell&perline=5)](https://skillicons.dev)
