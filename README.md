@@ -10,7 +10,7 @@ Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistem
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,flutter,nodejs,mysql,postgresql,dynamodb,firebase)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,angular,bootstrap,jquery,opencv&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,prisma,angular,bootstrap,jquery,opencv&perline=5)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx&perline=5)](https://skillicons.dev)
