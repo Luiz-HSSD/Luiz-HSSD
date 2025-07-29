@@ -13,7 +13,7 @@ Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistem
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,prisma,angular,bootstrap,jquery,rabbitmq,opencv&perline=5)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat&perline=5)](https://skillicons.dev)
 
  <!--
 **Luiz-HSSD/Luiz-HSSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
