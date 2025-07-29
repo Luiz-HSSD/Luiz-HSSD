@@ -16,6 +16,17 @@ também sei entity framework,entity framework core, dapper, NUnit, XUnit.
 ### 🛠️ Ferramentas de desenvolvimento:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,yarn&perline=5)](https://skillicons.dev)
 
+<p align="left">
+  <a href="mailto:lhenrique_diniz@hotmail.com" title="Outlook">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-539b0674/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511935000584" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
  <!--
 **Luiz-HSSD/Luiz-HSSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
