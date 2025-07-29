@@ -10,10 +10,11 @@ Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistem
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,sass,py,flutter,nodejs,mysql,postgresql,dynamodb,firebase,sqlite&perline=5)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,prisma,angular,bootstrap,jquery,rabbitmq,opencv,selenium&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,npm,yarn,prisma,angular,bootstrap,jquery,rabbitmq,opencv,selenium&perline=5)](https://skillicons.dev)
+também sei entity framework,entity framework core, dapper, NUnit, XUnit.
 
 ### 🛠️ Ferramentas de desenvolvimento:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,azure,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,yarn&perline=5)](https://skillicons.dev)
 
  <!--
 **Luiz-HSSD/Luiz-HSSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
