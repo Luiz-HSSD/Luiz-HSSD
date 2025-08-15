@@ -25,7 +25,7 @@ I'm a dotnet developer, I have a degree in Systems Analysis and Development from
   </a>
 </p>
 
-## :brazil: Olá pessoal Sou Luiz Henrique 👋
+## 🇧🇷 :brazil:  Olá pessoal Sou Luiz Henrique 👋 🇧🇷 🇧🇷
 
 Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec de Mogi das Cruzes, e tenho mais de 6 anos no mercado de trabalho adoro aprender mais a cada dia mais. Sou auto didata e adaptavel e me esforço sempre pra ser melhor no trabalho. 
 
