@@ -10,7 +10,7 @@ I'm a dotnet developer, I have a degree in Systems Analysis and Development from
 <br/>I also know: entity framework, entity framework core, dapper, NUnit, XUnit.
 
 ### 🛠️  Development Tools:
-[[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,yarn&perline=5)](https://skillicons.dev)
+[[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,postman,git,linux,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,yarn&perline=5)](https://skillicons.dev)
 
 
 <p align="left">
@@ -37,7 +37,7 @@ Sou um desenvolvedor dotnet, Sou formado em Análise e Desenvolvimento de Sistem
 <br/>também sei: entity framework, entity framework core, dapper, NUnit, XUnit.
 
 ### 🛠️ Ferramentas de desenvolvimento:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,git,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,yarn&perline=5)](https://skillicons.dev)
+[[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,postman,git,linux,docker,kubernetes,aws,azure,figma,openshift,nginx,powershell,raspberrypi,redhat,ubuntu,vim,visualstudio,vscode,windows,yarn&perline=5)](https://skillicons.dev)
 
 <p align="left">
   <a href="mailto:lhenrique_diniz@hotmail.com" title="Outlook">
